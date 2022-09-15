@@ -1,5 +1,3 @@
-
-
 #include "main.h"
 /**
  * print_numbers - Prints the number zero to nine
